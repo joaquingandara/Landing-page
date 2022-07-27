@@ -1,2 +1,2 @@
 # Landing-page
-Create an entire web page with a provide design. TOP.
+Web page based on a given design. TOP.
