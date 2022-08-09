@@ -113,8 +113,13 @@ button {
 .picture{
     display: flex;
     flex-direction: column;
+    width:200px;
+    height:200px;
+   
+}
+.image{
     max-width: 200px;
-    max-height: 200px;
+    height: 200px;
 }
 
 .subtext2{
