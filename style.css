@@ -21,7 +21,7 @@ body{
     display: flex;
     gap: 16px;
     font-size: 18px;
-    color: #e5e7eb;
+    color: #f3f3f5;
 }
 
 .left-logo{
@@ -54,9 +54,10 @@ ul{
     width: 400px;
     height: 200px;
     margin-top: 70px;
-    border-radius: 0px;
-    border-style: none;
+    border-radius: 8px;
+    border-style: solid;
     flex: 1 1 0;
+    border:none;
 
 }
 img{
@@ -201,3 +202,13 @@ button {
     color: #e5e7eb;
     padding:20px;
 }
+
+.logo{
+    width: 250px;
+    border-style: none;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
