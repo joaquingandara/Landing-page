@@ -56,12 +56,14 @@ ul{
     margin-top: 70px;
     border-radius: 0px;
     border-style: none;
+    flex: 1 1 0;
 
 }
 img{
     border-radius: 10px;
     border-color: #3882f6;
     border-style: solid;
+    flex: 1 1 0;
 }
 
 .header-right{
@@ -113,13 +115,12 @@ button {
 .picture{
     display: flex;
     flex-direction: column;
-    width:200px;
-    height:200px;
-   
+    max-width:200px;
+    max-height:200px;
 }
 .image{
     max-width: 200px;
-    height: 200px;
+    max-height: 200px;
 }
 
 .subtext2{
